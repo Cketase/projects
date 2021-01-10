@@ -1,1 +1,3 @@
-Yandex_music_analysis: как музыка, которая звучит по дороге на работу в понедельник утром, отличается от той, что играет в среду или в конце рабочей недели? Возьмите данные для Москвы и Петербурга. Сравните, что и в каком режиме слушают их жители.
+Yandex music analysis: How does the music that plays on the way to work on Monday morning differ
+from the music that plays on Wednesday or at the end of the working week? I took the data for Moscow
+and St. Petersburg and compared what their residents’ preferences are.
